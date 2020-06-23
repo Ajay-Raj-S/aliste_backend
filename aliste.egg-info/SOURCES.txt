@@ -1,9 +1,0 @@
-setup.py
-aliste/__init__.py
-aliste/local_settings.py
-aliste/views.py
-aliste.egg-info/PKG-INFO
-aliste.egg-info/SOURCES.txt
-aliste.egg-info/dependency_links.txt
-aliste.egg-info/requires.txt
-aliste.egg-info/top_level.txt
