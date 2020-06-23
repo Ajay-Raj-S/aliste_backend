@@ -11,3 +11,5 @@ export the Flask App as,
 To run the App,
 `flask run`
 
+To run unit tests,
+`python3 aliste/test_apis.py`
